@@ -1,0 +1,8 @@
+C:\Users\Guest1\Downloads\searchnoise-master\SearchNoise\bin\x64\Release\SearchNoise.exe.config
+C:\Users\Guest1\Downloads\searchnoise-master\SearchNoise\bin\x64\Release\SearchNoise.exe
+C:\Users\Guest1\Downloads\searchnoise-master\SearchNoise\bin\x64\Release\SearchNoise.pdb
+C:\Users\Guest1\Downloads\searchnoise-master\SearchNoise\obj\x64\Release\SearchNoise.Form1.resources
+C:\Users\Guest1\Downloads\searchnoise-master\SearchNoise\obj\x64\Release\SearchNoise.Properties.Resources.resources
+C:\Users\Guest1\Downloads\searchnoise-master\SearchNoise\obj\x64\Release\SearchNoise.csproj.GenerateResource.Cache
+C:\Users\Guest1\Downloads\searchnoise-master\SearchNoise\obj\x64\Release\SearchNoise.exe
+C:\Users\Guest1\Downloads\searchnoise-master\SearchNoise\obj\x64\Release\SearchNoise.pdb

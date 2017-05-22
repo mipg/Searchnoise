@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchNoise", "SearchNoise\SearchNoise.csproj", "{325C3DDD-28F1-44D8-A4D8-DEDCB61E761A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SearchnoiseSetup", "SearchnoiseSetup\SearchnoiseSetup.vdproj", "{E5D8E2DF-39AE-4AEF-B30A-830CEE37096D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{325C3DDD-28F1-44D8-A4D8-DEDCB61E761A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325C3DDD-28F1-44D8-A4D8-DEDCB61E761A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325C3DDD-28F1-44D8-A4D8-DEDCB61E761A}.Debug|x64.ActiveCfg = Debug|x64
+		{325C3DDD-28F1-44D8-A4D8-DEDCB61E761A}.Debug|x64.Build.0 = Debug|x64
+		{325C3DDD-28F1-44D8-A4D8-DEDCB61E761A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325C3DDD-28F1-44D8-A4D8-DEDCB61E761A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325C3DDD-28F1-44D8-A4D8-DEDCB61E761A}.Release|x64.ActiveCfg = Release|x64
+		{325C3DDD-28F1-44D8-A4D8-DEDCB61E761A}.Release|x64.Build.0 = Release|x64
+		{E5D8E2DF-39AE-4AEF-B30A-830CEE37096D}.Debug|Any CPU.ActiveCfg = Debug
+		{E5D8E2DF-39AE-4AEF-B30A-830CEE37096D}.Debug|x64.ActiveCfg = Debug
+		{E5D8E2DF-39AE-4AEF-B30A-830CEE37096D}.Debug|x64.Build.0 = Debug
+		{E5D8E2DF-39AE-4AEF-B30A-830CEE37096D}.Release|Any CPU.ActiveCfg = Release
+		{E5D8E2DF-39AE-4AEF-B30A-830CEE37096D}.Release|x64.ActiveCfg = Release
+		{E5D8E2DF-39AE-4AEF-B30A-830CEE37096D}.Release|x64.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
