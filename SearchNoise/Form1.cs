@@ -28,6 +28,7 @@ namespace SearchNoise
         static object searchTermsLocker = new object();
 
         static List<Thread> threads = new List<Thread>();
+        static object threadsLocker = new object();
 
         public Form1()
         {
@@ -243,8 +244,11 @@ namespace SearchNoise
                                     pf.outputDirectory = outputDirTextbox.Text;
 
                                     Thread th = new Thread(new ThreadStart(pf.FetchPage));
-                                    threads.Add(th);
-                                    th.Start();
+                                    lock(threadsLocker)
+                                    {
+                                        threads.Add(th);
+                                        th.Start();
+                                    }
                                 }
                                 catch
                                 {
@@ -265,10 +269,12 @@ namespace SearchNoise
                         int sleeptime2 = rndgen.Next(2000, 7000);
 
                         Thread.Sleep(sleeptime2);
-
-                        foreach (Thread thread in threads)
+                        lock(threadsLocker)
                         {
-                            thread.Abort();
+                            foreach (Thread thread in threads)
+                            {
+                                thread.Abort();
+                            }
                         }
                     }
                     catch { }
@@ -376,9 +382,12 @@ namespace SearchNoise
 
         private void Form1_Closing(object sender, FormClosingEventArgs e)
         {
-            foreach(Thread th in threads)
+            lock(threadsLocker)
             {
-                th.Abort();
+                foreach (Thread th in threads)
+                {
+                    th.Abort();
+                }
             }
         }
     }
