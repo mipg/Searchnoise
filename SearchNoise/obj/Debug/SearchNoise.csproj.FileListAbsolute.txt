@@ -1,0 +1,9 @@
+C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\bin\Debug\SearchNoise.exe.config
+C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\bin\Debug\SearchNoise.exe
+C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\bin\Debug\SearchNoise.pdb
+C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\obj\Debug\SearchNoise.csprojResolveAssemblyReference.cache
+C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\obj\Debug\SearchNoise.Form1.resources
+C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\obj\Debug\SearchNoise.Properties.Resources.resources
+C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\obj\Debug\SearchNoise.csproj.GenerateResource.Cache
+C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\obj\Debug\SearchNoise.exe
+C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\obj\Debug\SearchNoise.pdb

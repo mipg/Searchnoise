@@ -89,7 +89,7 @@
         "DisplayName" = "8:Release"
         "IsDebugOnly" = "11:FALSE"
         "IsReleaseOnly" = "11:TRUE"
-        "OutputFilename" = "8:Release\\Searchnoise_1_0_Setup_x64.msi"
+        "OutputFilename" = "8:Release\\Searchnoise_1_0_1_Setup_x64.msi"
         "PackageFilesAs" = "3:2"
         "PackageFileSize" = "3:-2147483648"
         "CabType" = "3:1"
@@ -151,6 +151,11 @@
             "AssemblyAsmDisplayName" = "8:System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
                 "ScatterAssemblies"
                 {
+                    "_5D108338D0FC34576DE0D49D8AADC4F0"
+                    {
+                    "Name" = "8:System.Net.Http.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:System.Net.Http.dll"
             "TargetName" = "8:"
@@ -299,15 +304,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Searchnoise"
-        "ProductCode" = "8:{9C7AF8AD-6827-4A91-9C4C-6FC84F953198}"
-        "PackageCode" = "8:{BF26BAA4-F8E7-4F5D-A1A1-EA94BFE965B2}"
+        "ProductCode" = "8:{86DD6898-E1D0-4C26-B648-44444CA678CB}"
+        "PackageCode" = "8:{C34BBF6D-BF87-4F24-973E-5AE6EB2DE817}"
         "UpgradeCode" = "8:{4A085437-14E5-4EB9-A54D-EEF445E34A31}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.0.0"
+        "ProductVersion" = "8:1.0.1"
         "Manufacturer" = "8:mipg"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
