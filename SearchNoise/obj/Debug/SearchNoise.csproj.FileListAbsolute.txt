@@ -7,3 +7,6 @@ C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\obj\Debug\SearchNoise.Prop
 C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\obj\Debug\SearchNoise.csproj.GenerateResource.Cache
 C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\obj\Debug\SearchNoise.exe
 C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\obj\Debug\SearchNoise.pdb
+D:\Searchnoise\SearchNoise\bin\Debug\SearchNoise.exe.config
+D:\Searchnoise\SearchNoise\obj\Debug\SearchNoise.exe
+D:\Searchnoise\SearchNoise\obj\Debug\SearchNoise.pdb

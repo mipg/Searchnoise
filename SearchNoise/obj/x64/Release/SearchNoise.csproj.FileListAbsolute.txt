@@ -15,3 +15,12 @@ C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\obj\x64\Release\SearchNois
 C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\obj\x64\Release\SearchNoise.Form1.resources
 C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\obj\x64\Release\SearchNoise.Properties.Resources.resources
 C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\obj\x64\Release\SearchNoise.csproj.GenerateResource.Cache
+D:\Searchnoise\SearchNoise\bin\x64\Release\SearchNoise.exe.config
+D:\Searchnoise\SearchNoise\obj\x64\Release\SearchNoise.exe
+D:\Searchnoise\SearchNoise\obj\x64\Release\SearchNoise.pdb
+D:\Searchnoise\SearchNoise\bin\x64\Release\SearchNoise.exe
+D:\Searchnoise\SearchNoise\bin\x64\Release\SearchNoise.pdb
+D:\Searchnoise\SearchNoise\obj\x64\Release\SearchNoise.csprojResolveAssemblyReference.cache
+D:\Searchnoise\SearchNoise\obj\x64\Release\SearchNoise.Form1.resources
+D:\Searchnoise\SearchNoise\obj\x64\Release\SearchNoise.Properties.Resources.resources
+D:\Searchnoise\SearchNoise\obj\x64\Release\SearchNoise.csproj.GenerateResource.Cache

@@ -1,1 +1,2 @@
 C:\Users\Guest1\Downloads\Searchnoise-1.0\SearchNoise\bin\Release\SearchNoise.exe.config
+D:\Searchnoise\SearchNoise\bin\Release\SearchNoise.exe.config
